@@ -1,0 +1,19 @@
+body {
+    background-color: #f7f7f7;
+}
+
+.jumbotron {
+    border: rgba(129, 128, 128, 0.2) 2px solid;
+    box-shadow: 0px 0px 5px 2px rgb(150, 138, 138);
+    margin-top: 70px; 
+}
+
+#greyCol {
+    background-color: #f7f7f7;
+}
+
+input {
+  width: 100%;
+  font-family: Arial, FontAwesome;
+  
+}
