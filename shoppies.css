@@ -2,6 +2,10 @@ body {
     background-color: #f7f7f7;
 }
 
+h2 {
+    font-size: 1.2rem;
+}
+
 .jumbotron {
     border: rgba(129, 128, 128, 0.2) 2px solid;
     box-shadow: 0px 0px 5px 2px rgb(150, 138, 138);
@@ -13,7 +17,12 @@ body {
 }
 
 input {
-  width: 100%;
+  width: 96%;
   font-family: Arial, FontAwesome;
-  
+  outline: none;
+}
+
+#sIcon {
+    width: 1%;
+    font-family: Arial, FontAwesome;
 }
